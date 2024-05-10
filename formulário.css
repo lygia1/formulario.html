@@ -1,0 +1,28 @@
+*{
+    margin: 2;
+    padding: 2;
+}
+#titulo{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(216, 164, 194);
+    margin-left:7%;
+    
+}
+#subtítulo{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(101, 38, 99);
+    margin-left: 9%;
+}
+fieldset{
+    border: 1;
+}
+body{
+    background-color: rgb(195, 140, 182);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2em;
+    color: rgb(110, 41, 86);
+    margin-left: 0%;
+    margin-top: 2%;
+    justify-content: left;
+
+}
