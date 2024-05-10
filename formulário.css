@@ -26,3 +26,14 @@ body{
     justify-content: left;
 
 }
+input, select, textarea,button{
+    border-radius: 4px;
+}
+.campo{
+    margin-bottom: 2em;
+}
+.campo label{
+    margin-bottom: 0.2 em;
+    color: hotpink;
+    display: block;
+}
